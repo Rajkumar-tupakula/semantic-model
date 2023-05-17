@@ -1,0 +1,15 @@
+{
+  "subjectArea" : {
+    "name" : "Demo Sample Sales",
+    "sourceBusinessModel" : "businessModel:Demo Sample Sales BM",
+    "tableOrder" : [ {
+      "name" : "presentationTable:Demo Sample Sales.Time"
+    }, {
+      "name" : "presentationTable:Demo Sample Sales.Base Facts"
+    }, {
+      "name" : "presentationTable:Demo Sample Sales.Products"
+    }, {
+      "name" : "presentationTable:Demo Sample Sales.Customers"
+    } ]
+  }
+}
